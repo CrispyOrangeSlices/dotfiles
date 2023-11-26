@@ -30,3 +30,5 @@ Within Neovim, Ignore all the errors and run these:
 :PackerSync
 ```
 
+
+TODO: Fonts, Ansible e2e config, test on fresh installs
