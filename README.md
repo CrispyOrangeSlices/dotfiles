@@ -4,6 +4,10 @@ Use this command inside the dotfiles directory
 ```bash
 cp -r dots/.* ~/
 ```
+## Prerequisites
+- Oh-My-Zsh
+- .tmux (Previously oh-my-tmux) 
+- fzf
 
 ## Setup github
 - Github CLI 
