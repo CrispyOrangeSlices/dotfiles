@@ -24,5 +24,5 @@ Within Neovim, Ignore all the errors and run these:
 ```vim
 :so 
 :PackerSync
-``
+```
 
