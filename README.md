@@ -7,7 +7,9 @@ cp -r dots/.* ~/
 ## Prerequisites
 - Oh-My-Zsh
 - .tmux (Previously oh-my-tmux) 
+- ripgrep
 - fzf
+- zsh
 
 ## Setup github
 - Github CLI 
